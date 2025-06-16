@@ -27,4 +27,4 @@ Run `npx appium-doctor` and address any issues it reports
 
 1. Open Android Studio and launch a virtual device
 2. Launch appium in a terminal with the command `appium`
-3. In another terminal run the test, such as `node example.js`
+3. In another terminal run the test, such as `node example_test.js`
